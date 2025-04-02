@@ -87,7 +87,7 @@ class HomeScreen extends StatelessWidget {
                           BoxShadow(
                             color: Colors.deepPurpleAccent.withOpacity(0.2), // Hafif mor gölge
                             blurRadius: 3, // Yumuşaklık az 33333333333
-                            spreadRadius: 0, // Yanlardan yayılma yok
+                            spreadRadius: 0, // Yanlardan yayılma yok 232322323
                             offset: Offset(0, 3), // Yalnızca aşağıya doğru 222222222
                           ),
                         ],
